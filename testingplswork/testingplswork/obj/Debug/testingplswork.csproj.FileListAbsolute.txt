@@ -1,0 +1,15 @@
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\bin\Debug\testingplswork.exe.config
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\bin\Debug\testingplswork.exe
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\bin\Debug\testingplswork.pdb
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.csprojAssemblyReference.cache
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\MainWindow.g.cs
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\App.g.cs
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork_MarkupCompile.cache
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork_MarkupCompile.lref
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\MainWindow.baml
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.g.resources
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.Properties.Resources.resources
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.csproj.GenerateResource.cache
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.csproj.CoreCompileInputs.cache
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.exe
+C:\Users\Natasja\source\repos\testingplswork\testingplswork\obj\Debug\testingplswork.pdb
